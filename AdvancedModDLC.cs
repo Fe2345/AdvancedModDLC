@@ -6,10 +6,13 @@ namespace AdvancedModDLC
 	{
         public override object Call(params object[] args)
         {
-            if ((string)args[0] == "EnableWitherMode")
+            switch ((string)args[0])
             {
-                AdvancedModDLCWorld.WitherMode = true;
-                return true;
+                case "EnableWitherMode":
+                    AdvancedModDLCWorld.WitherMode = true;
+                    return true;
+                case "WitherMode":
+                    return AdvancedModDLCWorld.WitherMode;
             }
 
             return false;

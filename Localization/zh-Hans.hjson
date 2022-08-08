@@ -1,0 +1,28 @@
+﻿Mods:{
+	AdvancedModDLC:{
+		Bestiary:{
+		    Chemist:和其他人不同，他来到这个城镇只是为了寻找一个自己的实验室。他似乎和护士性情很相投
+			Midbody:出售可疑物品和各色各样的材料，没有人知道他来自哪里，但是大家一定会记得，只要他在，每个月一定会有奇怪的眼球、脑子、头骨、甚至章鱼来造访这个城镇
+		}
+
+		TownNPCMood:{
+			Chemist:{
+				Content:反应正好处于平衡状态
+				NoHome:我想到了一个绝妙的实验方案，但是我没有一个实验室
+				LoveSpace:这里很安静
+				FarFromHome:我想到了一个绝妙的实验方案，但是我离我的实验室太远了
+				DislikeCrowded:你能让那些人走开吗？叮叮当当的，我的烧杯都要开始摇晃了
+				LoveBiome:丛林的水永远是最贴近自然的。实在是妙极了
+				LikeBiome:我们都是从森林开始的。这很好
+				DislikeBiome:我不喜欢神圣之地！那个史莱姆皇后是啥玩意？
+				HateBiome:我的药水都发臭了……
+				LoveNPC:"{NPCName}总是耐心的治疗别人！我从她那里学到了很多"
+				LoveNPC_Princesss:"令我意外的是，{NPCName}似乎对化学也饶有兴趣。她甚至知道如何合成河豚毒素！"
+				LikeNPC:"{NPCName}的巫术并非没有科学道理。我利用他的技术，成功改进了我的药水配方。"
+				DislikeNPC:"{NPCName}太功利了。"
+				HateNPC:"{NPCName}只知道向我收税！"
+			}
+
+		}
+	}
+}

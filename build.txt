@@ -1,4 +1,9 @@
 displayName = Advanced Mod DLC
 author = SwordOfWar
 version = 0.1.0
-Reference = AdvancedMod@0.2.5
+modReferences = AdvancedMod@0.2.5
+homepage = https://Fe2345.github.io
+hideCode = false
+hideResources = false
+includeSource = true
+includePDB = true

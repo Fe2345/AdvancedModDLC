@@ -1,1 +1,3 @@
-Advanced Mod DLC is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+先进(Advanced) Mod的附属Mod，需要先进Mod作为前置
+
+包含若干物品和模组联动内容（未开发完成）
